@@ -1,0 +1,30 @@
+{
+  "name": "teenager",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Makes you a certified teenager. Just for fun ;)",
+  "author": {
+    "name": "Harsimran Singh Maan",
+    "email": "maan.harry@gmail.com",
+    "url": "https://github.com/harsimranmaan"
+  },
+  "engines": {
+    "node": "0.10.35",
+    "npm": "2.1.16"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harsimranmaan/teenager.git"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "jshint-stylish": "^1.0.0"
+  }
+}

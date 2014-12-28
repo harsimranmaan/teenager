@@ -1,0 +1,4 @@
+# This file is not used at all by git. Used to track any project
+# specific setting that may be useful.
+[pull]
+  rebase = true

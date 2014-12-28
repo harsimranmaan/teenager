@@ -1,0 +1,16 @@
+{
+  "name": "teenager",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Makes you a certified teenager. Just for fun ;)",
+  "author": {
+    "name": "Harsimran Singh Maan",
+    "email": "maan.harry@gmail.com",
+    "url": "https://github.com/harsimranmaan"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harsimranmaan/teenager.git"
+  }
+}
