@@ -1,0 +1,8 @@
+{
+  "host": "test.maan",
+  "protocol": "http",
+  "port": 80,
+  "restApiRoot": "/api",
+  "authProviders": "./providers",
+  "url": "http://test.maan"
+}
